@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/myPostsWithSaga/static/css/main.b620afac.css",
+    "main.js": "/myPostsWithSaga/static/js/main.d619f6b0.js",
+    "index.html": "/myPostsWithSaga/index.html",
+    "main.b620afac.css.map": "/myPostsWithSaga/static/css/main.b620afac.css.map",
+    "main.d619f6b0.js.map": "/myPostsWithSaga/static/js/main.d619f6b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b620afac.css",
+    "static/js/main.d619f6b0.js"
+  ]
+}
